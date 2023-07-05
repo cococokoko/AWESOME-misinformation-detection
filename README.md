@@ -23,7 +23,7 @@ The second dataset is one of the most extensive benchmark datasets with more tha
 - Dataset: https://www.unb.ca/cic/datasets/truthseeker-2023.html
 
 
-## Models Implemented and 
+## Preprocessing, Models Implemented and Evaluation Metrics
 
 ![Approach](data/Approach.png)
 
