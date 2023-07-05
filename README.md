@@ -23,6 +23,21 @@ The second dataset is one of the most extensive benchmark datasets with more tha
 - Dataset: https://www.unb.ca/cic/datasets/truthseeker-2023.html
 
 
+## Models Implemented and 
+
+![Approach](data/Approach.png)
+
+
+## Summary
+
+- The OpenAI model outperformed all other models, however the model is lacking explainability
+- Classical models:
+  - the best approach for analysing text was found to be a combination of semantic features, Twitter metadata, and sentiment analysis
+- Assessing the models generalizability:
+  - the classic models are demonstrating higher effectiveness across different datasets
+  - potential better suited for real-world applicability
+
+
 
 ## Further Resources:
 - https://predictivehacks.com/how-to-fine-tune-an-nlp-classification-model-with-openai/
