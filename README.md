@@ -3,6 +3,19 @@
 As part of our Data Science & AI specialisation we chose to tackle the problem of fake news on twitter. We found to public datasets with labelled tweets and applied different classification algorithms.
 
 
+## Why it is relevant?
+
+1. Addressing misinformation: Misinformation and fake news are pervasive in today's digital age and can have significant societal implications. They might conscious and unconsciously form our opinions and political viewpoints (e.g Covid-19 or elections). Fake news might even cause chaos, panic or real-life fear. By developing and testing a classification model to identify fake news in tweets, we contribute to the ongoing efforts to combat misinformation and promote accurate information sharing.
+
+2. Social media impact: Twitter, as a widely used social media platform, plays a significant role in shaping public opinion and discourse. Fake news on Twitter can spread rapidly and influence public perceptions and decision-making. By focusing on tweets specifically, our project addresses the unique challenges posed by fake news dissemination on this platform.
+
+3. Enhancing trust and credibility: Developing effective tools to identify fake news can help improve the trustworthiness and credibility of information shared on social media. By providing a reliable classification model, our project can contribute to creating a more informed and discerning digital society.
+
+4. Algorithmic transparency and fairness: Testing and evaluating our classification model on multiple datasets can help uncover biases or limitations that may affect its performance. By actively addressing biases and striving for fairness, we contribute to the responsible development and deployment of AI algorithms, which is a crucial aspect of AI ethics. 
+
+5. Generalizability: Fake news detection is a challenging problem, and testing our model on multiple datasets helps assess its generalizability. By demonstrating the effectiveness of our classification model across different datasets, we provide valuable insights into its potential real-world applicability.
+
+
 ## Infodemic Dataset 
 
 The first dataset we used was taken from a paper called [Fighting an Infodemic](https://arxiv.org/abs/2011.03327). The authors manually annotated a dataset of 10,700 social media posts and articles of real and fake news on COVID-19.
